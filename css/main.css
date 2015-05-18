@@ -55,7 +55,7 @@ body, html {
     width: 160px;
 }
 
-.book a {
+a div .author, a div .title {
     color: #000;
 }
 
